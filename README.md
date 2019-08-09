@@ -1,19 +1,18 @@
-# Nirapod-Rokter-Bondhon-Website
-This website was developed for a RUET-based organization as part of academic course.
+# Medhabi-School-Website
+This website was developed for math lover people where people can read math related blog as part of academic course.
 <br/> <br/>
 The database is exported to nirobdb.sql file. The database was handled in XAMPP, where database host is Localhost, username is "root" (without the double quotes) and password is "" i.e. blank.
 
 **Some Screenshots**
 
 Homepage
-![homepage1](screenshots/homepage1.png)
-![homepage2](screenshots/homepage2.png)
+![homepage](screenshots/index.jpg)
 
-Blood Group Register Page
-![register](screenshots/register.png)
+Admin Login Page
+![login](screenshots/login.jpg)
 
-Blood Request Page
-![request](screenshots/request.png)
+Contact Us page
+![contact-us](screenshots/contact-us.jpg)
 
 Search Page
 ![search](screenshots/search.png)
