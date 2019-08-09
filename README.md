@@ -9,31 +9,7 @@ Homepage
 ![homepage](Screenshots/index.jpg)
 
 Admin Login Page
-![login](screenshots/login.jpg)
+![login](Screenshots/login.jpg)
 
 Contact Us page
-![contact-us](screenshots/contact-us.jpg)
-
-Search Page
-![search](screenshots/search.png)
-
-Members Page (Admin View)
-![members](screenshots/members.png)
-
-Constitution Page
-![constitution](screenshots/constitution.png)
-
-Forum Page
-![forum](screenshots/forum.png)
-
-Admin Panel Page
-![admin](screenshots/admin.png)
-
-Sign Up Page
-![signup](screenshots/signup.png)
-
-Sign In Page
-![signin](screenshots/signin.png)
-
-Password Reset Page
-![passreset](screenshots/passreset.png)
+![contact-us](Screenshots/contact-us.jpg)
