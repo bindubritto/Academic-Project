@@ -6,7 +6,7 @@ The database is exported to nirobdb.sql file. The database was handled in XAMPP,
 **Some Screenshots**
 
 Homepage
-![homepage](screenshots/index.jpg)
+![homepage](Screenshots/index.jpg)
 
 Admin Login Page
 ![login](screenshots/login.jpg)
